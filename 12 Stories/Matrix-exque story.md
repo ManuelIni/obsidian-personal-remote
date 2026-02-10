@@ -1,0 +1,4 @@
+Person lebt ein glückliches leben, hat alles was sie braucht.  
+Plötzlich wird sie aus dem Leben gerissen. Tatsächlich hat sie in einer simulation gelebt, und wurde von einem Menschen, der ausserhalb der Simulation lebt geholt. Dieser fühlte sich einsam und suchte so nach einer Kapsel, in welcher der Körper der Person in der simulation lag. Die reale Welt ist verlassen, fast alle Menschen leben in der Simulation, überreste der Zivilisation sind von der Natur überwachsen.  
+Die Kapseln der Simulation sind über die ganze Erde verstreut, entweder grossen Massen in Lagerhäusern oder als selbstversorgende, wind- wasser- und solarbetriebene kleine Häuschen.  
+Die Person aus der Simulation fühlt sich betrogen, und will zurück in die Simulation, während der Mensch aus der echten Welt sie überzeugen will, in der Realität zu bleiben

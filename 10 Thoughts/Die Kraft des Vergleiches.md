@@ -1,0 +1,6 @@
+---
+Disziplin:
+  - Sozialphilosophie
+Status: Entwurf
+---
+Das Menschliche Leben ist von Vergleichen geprägt. Das Individuum sieht sich stets seinesgleichen aus der Vergangenheit und Gegenwart, oder gar in der Zukunft gegenüber. Der Mensch vergleicht und wird verglichen - der Ausgang der Vergleiche ist dabei allein von der Relation der verglichenen Parteien abhängig. Das Individuum setzt sich je nach Gemütslage in Relation mit Besserem oder Schlechterem. Des Öfteren neigt der Mensch jedoch dazu, sich ausschliesslich mit ihm überlegenen Parteien zu vergleichen. Antrieb dafür ist seine Gier, dem Verlangen nach reiner Quantität. Ob Ansehen, Geld, oder sonstige Materialität - selbst die Berühmtesten, die Reichsten und die Meistbesitzenden träumen von dem ihnen nicht Zugänglichen. Wer sein Wohlbefinden auf Negativvergleiche stützt, richtet sich selbst zugrunde. Ebenfalls verliert, wer sich ausschliesslich über andere stellt; es gilt, die dem Vergleich zugrundeliegende Motivation zu examinieren und dementsprechend herzuleiten, ob und wie die Relation zielführend sein kann. Fest steht jedoch, dass sowohl der Überlegene als auch der Unterlegene des Menschen ständiger Begleiter sind. Denn wäre er der letzte seiner Art, so würde der Mensch sich mit den Sternen vergleichen.

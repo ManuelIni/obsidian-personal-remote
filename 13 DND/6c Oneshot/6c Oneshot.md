@@ -1,0 +1,7 @@
+[[Places]]
+
+[[NPCs]]
+
+[[Encounters]]
+
+[[Plan]]

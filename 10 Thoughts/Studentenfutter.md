@@ -1,0 +1,3 @@
+  
+
+Was essen Studenten? Die Skepsis der älteren, Eltern, die meinen, dass es für nichts gut sei? Ja, sagen sie, ihr dürft schon machen, was ihr wollt, nur nicht, was euch wirklich glücklich macht. Wollt ihr nicht was anderes machen, Lehrer oder so, einen Job finden - seid doch nicht so rebellisch, die Welt reevolutioniert sich von alleine, einmal im Jahr um die Sonne, dreihundertfünfundsechzig Mal um sich selbst. Alles dreht sich, der Mammon ist Mamas Erstgeborenes, Mama Wirtschaft, Mama unsichtbare Hand. Glaubt mir, sagt sie besoffen zu euch, ich kriegs auf die Reihe, ihr seid mir alle gleich wichtig, manche ein bisschen gleicher.
