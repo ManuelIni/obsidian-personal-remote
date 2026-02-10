@@ -1,4 +1,4 @@
-# Training Plan
+	# Training Plan
 
 ### Line drawing & Stylization
 Warmup: lines & ellipses
@@ -16,7 +16,7 @@ draw with 1, 2, 4 values
 
 15 drawings à 3 min
 
-- [x] Done
+- [ ] Done
 
 ### Perspective & Primitive Shapes
 Warmup: lines & ellipses
@@ -26,11 +26,12 @@ draw Cubes, Cylinders in perspective (freehand & construct)
 
 3 pages à 10 min
 
-- [x] Done
+- [ ] Done
 
 ### Composition & Color?
 Reference: Cool paintings
-Draw over, determine composition, identify key colors
+Draw over, determine composition, identify key colors & composition
+Sketch compositions
 
 3 paintings à 15 min
 

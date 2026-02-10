@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Personal-remote/04 Watch & Reading List/Manga_Comics")
+        - file.name != "Manga_Comics.base"
+    order:
+      - file.name
+      - Author
+      - Year
+    sort:
+      - property: Author
+        direction: DESC
+    columnSize:
+      note.Author: 137
